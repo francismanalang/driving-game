@@ -3,10 +3,11 @@
 }
 
 img {
-  width: 200px;/* transition: transform 0.15s; */
+  width: 200px;
+  transition: transform 0.15s;
 }
 
-/* .rotate-down {
+.rotate-down {
   transform: rotate(90deg);
 }
 
@@ -22,7 +23,7 @@ img {
   transform: rotate(0deg);
 }
 
-.go-right {
+/* .go-right {
   padding-left: 1600px;
   transition: padding-left 2s linear;
 }
